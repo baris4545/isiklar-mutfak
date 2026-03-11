@@ -74,7 +74,7 @@ export default function Navbar() {
           <NavLink to="/referanslar" className={linkClass}>Referanslarımız</NavLink>
           <NavLink to="/projeler" className={linkClass}>Projeler</NavLink>
           <NavLink to="/hakkimizda" className={linkClass}>Hakkımızda</NavLink>
-          <a className="proLink" href="/#iletisim">İletişim</a>
+          <NavLink to="/iletisim" className={linkClass}>İletişim</NavLink>
 
           <div className="mobileCtas">
             <a className="proBtn" href={waLink} target="_blank" rel="noreferrer">
