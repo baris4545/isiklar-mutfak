@@ -1,0 +1,14 @@
+[
+  {
+    "id": "musteri-a-otel-ana-mutfak",
+    "title": "Müşteri A - Otel Ana Mutfak",
+    "category": "Otel",
+    "city": "İstanbul",
+    "year": "2025",
+    "cover": "/img/projects/proje-1/01.jpg",
+    "logo": "/img/logos/musteri-a.png",
+    "gallery": ["/img/projects/proje-1/01.jpg"],
+    "scope": ["Keşif", "İmalat"],
+    "location": { "country": "Türkiye", "lat": 41.0082, "lng": 28.9784 }
+  }
+]
